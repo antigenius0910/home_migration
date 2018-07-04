@@ -1,6 +1,3 @@
----
-
-
 **On single server sync current /home/USERNAME to shared home directory /home.new/home/**
 
 1. mkdir /remote.bin
@@ -24,5 +21,3 @@
 
 * /remote.bin/roll_back.sh
 
-
----
